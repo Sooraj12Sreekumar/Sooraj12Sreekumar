@@ -8,15 +8,15 @@ A Data Science enthusiast who learns by **building, breaking and rebuilding.**
 For me, coding isn't just lines on a screen - it's a way to bring ideas alive, whether it's an AI Assistant that talks back, 
 a model that predicts outcomes, or a productivity tool that makes life simpler.
 
-📚 Currently diving deep into Generative AI, Neural Networks, and End-to-End ML pipelines
+📚 Currently diving deep into Generative AI, Neural Networks, and End-to-End ML pipelines.
 
-🛠 Hands-on learner: I prefer projects over theory, but I back it up with solid fundamentals
+🛠 Hands-on learner: I prefer projects over theory, but I back it up with solid fundamentals.
 
-🌍 Exploring intersections of Data Science × AI Products × Real-world Impact
+🌍 Exploring intersections of Data Science × AI Products × Real-world Impact.
 
-💡 Believe in: “If you can imagine it, you can prototype it”
+💡 Believe in: “If you can imagine it, you can prototype it”.
 
-🎯 Goal: Build solutions that are practical, personal, and powerful
+🎯 Goal: Build solutions that are practical, personal, and powerful.
 
 ___
 
