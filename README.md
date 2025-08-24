@@ -6,7 +6,7 @@ ___
 ## 🤖💡 About me
 A Data Science enthusiast who learns by **building, breaking and rebuilding.**
 For me, coding isn't just lines on a screen - it's a way to bring ideas alive, whether it's an AI Assistant that talks back, 
-a model that predicts outcomes, or a productivity tool that maked life simpler.
+a model that predicts outcomes, or a productivity tool that makes life simpler.
 
 📚 Currently diving deep into Generative AI, Neural Networks, and End-to-End ML pipelines
 
