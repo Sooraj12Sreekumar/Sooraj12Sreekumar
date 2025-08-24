@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Sooraj Sreekumar</h1>
-<h3 align="center">🚀 AI Enthusiast | 🤖 Generative AI Explorer | 📊 Data Science Learner | 💻 Python & NLP Developer</h3>
+<h3 align="center">🚀 AI Enthusiast | 🤖 Generative AI Explorer | 📊 Data Science Learner</h3>
 
 ___
 
