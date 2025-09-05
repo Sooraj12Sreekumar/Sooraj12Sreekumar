@@ -28,7 +28,7 @@ ___
 | *Languages*         | Python, R, SQL                                                                  |
 | *ML/DL Frameworks*  | TensorFlow, PyTorch, Hugging Face Transformers, Scikit-learn, NLTK, OpenCV       |
 | *Data Tools*        | Pandas, NumPy, Tableau, Power BI, Git, LabelImg, Label Studio                    |
-| *Specialized Tools* | MySQL, APIs (Gemini, OpenAI, DeepSeek)                       |
+| *Specialized Tools* | MySQL, PostgreSQL, APIs (Gemini, OpenAI, DeepSeek)                       |
 | *Domains*           | Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, OCR, Data Annotation |
 
 
